@@ -15,7 +15,7 @@
 :root {
 	/*---Theme Settings---*/
 	/*Custom BG - enter the link to the image you want to use as the app background, keep quotes*/
-	--bg-image: url('here') center/cover no-repeat;
+	--bg-image: url('https://wallpaperaccess.com/full/1648681.jpg') center/cover no-repeat;
 	/*User Avatar Border Radius Values - change all below to 999px for circle avatars, set back to default values for square avatars*/
 	--maskradius: 2px; /*default: 2px*/
 	--avatarradius: 3px; /*default: 3px*/
